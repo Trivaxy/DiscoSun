@@ -1,5 +1,5 @@
 # DiscoSun
-A simple, well-explained example and tutorial on using Mono.Cecil to patch an assembly, using Terraria as an example.
+A simple, well-explained example and tutorial on using Mono.Cecil to patch an assembly, using Terraria as the victim.
 
 # Building
 To build this on your machine, you'll need a Microsoft.Xna.Framework.dll and an unmodified Terraria.exe placed into bin/Debug/netcoreapp3.1.
